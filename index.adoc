@@ -1,4 +1,4 @@
-= SAMSUNG SYSTEM Manual =
+= STA System Manual =
 김경남<knamkim@gmail.com>
 v0.1
 :doctype: book
@@ -8,5 +8,7 @@ v0.1
 :source highlighter: prettify
 
 
+include::intro.adoc[]
 include::login.adoc[]
 include::file.adoc[]
+include::master_data.adoc[]
