@@ -221,7 +221,7 @@ image::images/add_refer.gif[800,400]
 === 통화 관리 ===
 업무에 사용하는 환율 정보를 관리한다.
 
-image::images/currency.gif[]
+image::images/currency.gif[800,400]
 
 . 조회 : 현재 등록되어 있는 환율 정보를 조회한다.
 . 추가 : 새로운 환율 정보를 등록한다.
